@@ -2,7 +2,7 @@
 1. Upload Image
 2. Upload Video
 3. Use webcam 
-## Chapter_2: Basic Functions of OpenCV
+## Chapter_2: BASIC FUNCTIONS OF OPEN_CV
 1. Conversion in GrayScale Image
 2. Image Blurring
 3. Edge Detector
@@ -21,3 +21,10 @@
 ## Chapter_6: JOINING IMAGES 
 1. Horizontal Stacking
 2. Vertical Stacking
+## Chapter_7: COLOR DETECTION
+1. Convert RGB image to HSV.
+2. Create Trackbar.
+3. Create Mask.
+4. Tune HSV parameters from trackbar to get desired shape of object in white in the mask. 
+5. Get the actual color of object in image.
+
