@@ -31,7 +31,7 @@ def getContours(imgCanny):
             if aspRatio > 0.8 and aspRatio < 1.05 :
                 objText = "S"   # SQUARE
             else:objText = "R"  # RECTANGLE
-        elif objCorner > 5:  # IF NO. OF CORNERS IS 5
+        elif objCorner > 4:  # IF NO. OF CORNERS IS 5
             objText = "C"  # CIRCLE
         else: objText = "None"
         cv2.rectangle(imgC,(x,y),(x+w,y+h),(0,250,0),2)
