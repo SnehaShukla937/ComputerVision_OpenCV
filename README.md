@@ -2,7 +2,7 @@
 1. Upload Image
 2. Upload Video
 3. Use webcam 
-## Chapter_2: BASIC FUNCTIONS OF OPEN_CV
+## Chapter_2: BASIC FUNCTIONS OF OPENCV
 1. Conversion in GrayScale Image
 2. Image Blurring
 3. Edge Detector
